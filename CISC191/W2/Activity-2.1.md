@@ -2,7 +2,7 @@
 
 #2. The thing I was having the most trouble with was understanding the instructions and understanding that there were two ways to do this assignment, not just using one way. 
 With the actual code, I was a little confused between the method/constructor parameters (newSearch, newValue) with the fields (search, value) inside the class.
-However, I made a clear distinction between the two in my code by using `this.search` and `this.value` in order to tell Java that I'm referring to the class' field and not the local parameter.
+However, I made a clear distinction between the two in my code by using `this.search` and `this.value` in order to tell Java that I'm referring to the class' field and not the local parameter. I also had a lot of trouble running the code at first, so I ended up making two main methods: one for each task.
 
 #3. Video: https://www.loom.com/share/164555847a3f4497bd27d6ef17ab5391?sid=c8a64f01-6ada-4014-8377-4b144eb2516b
 
