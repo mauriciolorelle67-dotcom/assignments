@@ -8,6 +8,7 @@ If I wanted independence of these variables, copying both the object and its arr
 int sum can also overflow with large arrays and values, so instead of using int, I could use long. However, that takes up more storage.
 
 # 3. Video:
+https://www.loom.com/share/0f51842703cb49009d2c48d431bf7c76?sid=bed200fd-cb8d-47fe-9b3d-3a18b6e35d53
 
 # 4. Code:
     public class Main {
