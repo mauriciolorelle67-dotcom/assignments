@@ -5,6 +5,7 @@ https://drive.google.com/file/d/1pRYa1cdhLMxFJiyRFp_fIUAOMhA_DuMt/view?usp=shari
 I kept on forgetting to call super.printInfo() in the derived class, so my base info wasn't printing.
 
 ## Video:
+https://www.loom.com/share/27b0817817844212bf93f28796330e75?sid=9868dd20-10ef-4b6e-a310-f8d8ef9700b8
 
 ## Code:
     public class Course {
