@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1AV4dlDU5SsFYqwwT-N5jCd1HQ5KhLOH-/view?usp=shari
 I mixed up nextLine() and nextInt() and then I ended up skipping some input.
 
 ## Video:
-
+https://www.loom.com/share/19ce2b0d5c844d9ba35c7a7ad4921f66?sid=45566df0-fd18-487e-8253-ed8328e30bdf
 
 ## Code:
     // ===== Code from file Book.java =====
@@ -144,7 +144,7 @@ I mixed up nextLine() and nextInt() and then I ended up skipping some input.
       encyclopedia1.printInfo();
 
       scnr.close();
-   }
-}
+       }
+    }
 
 
